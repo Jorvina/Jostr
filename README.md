@@ -1,1 +1,115 @@
-# MLMJO
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Interesting Truths and Stories</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fffaf0;
+      color: #333;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #6b4b3e;
+    }
+    .story {
+      background-color: #fff;
+      border-left: 6px solid #f0a500;
+      padding: 1rem 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+    .highlight {
+      background-color: #fef3c7;
+      padding: 0.2em 0.4em;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🤯 Fascinating Truths & Logical Stories</h1>
+
+<div class="story">
+    <h2>🌌 Surprising Truths That Are Actually True</h2>
+
+    <h3>✅ Truth 1: You are made of stars</h3>
+    <p>
+      It might sound impossible, but it’s scientifically true — the carbon, oxygen, nitrogen, and iron in your body were all created in the hearts of <strong>exploding stars</strong> called supernovas. 🌠
+    </p>
+    <p>
+      That means you — yes, you — are made of <span class="highlight">stardust</span>. 💫
+    </p>
+    <h4>🧪 Scientific Explanation:</h4>
+    <ul>
+      <li><strong>Hydrogen</strong> and <strong>helium</strong> came from the Big Bang. Heavier elements like carbon and iron formed in stars.</li>
+      <li>Massive stars go supernova, scattering these elements across space.</li>
+      <li>Earth — and life — formed from this scattered stardust.</li>
+      <li>Astrophysicists like <strong>Carl Sagan</strong> and <strong>Neil deGrasse Tyson</strong> confirm this with cosmology and atomic science.</li>
+    </ul>
+
+    <h3>❌ Myth Busted: Humans only have 5 senses</h3>
+    <p>
+      Most people think we only have sight, hearing, smell, taste, and touch. But science tells us we have <strong>at least 9–20 senses</strong>!
+    </p>
+    <ul>
+      <li><strong>Proprioception</strong> – sense of body position; proven by muscle and joint sensors (proprioceptors) and cerebellum processing.</li>
+      <li><strong>Equilibrioception</strong> – balance sense; controlled by the vestibular system in the inner ear.</li>
+      <li><strong>Thermoception</strong> – ability to sense heat and cold via thermoreceptors.</li>
+      <li><strong>Nociception</strong> – pain detection using specialized sensory neurons called nociceptors.</li>
+    </ul>
+    <p>
+      Modern neuroscience textbooks and research from institutions like <strong>Harvard Medical School</strong> and the <strong>NIH</strong> support this.
+    </p>
+    <p>
+      So the “5 senses” idea? That’s a <span class="highlight">myth</span>! ❌
+    </p>
+  </div>
+
+  <div class="story">
+    <h2>🥚 Did the Egg Come First, or the Hen?</h2>
+    <p><strong>Ah — the classic riddle of biology and philosophy:</strong></p>
+    <blockquote>
+      🥚 <strong>Did the egg come first, or the hen?</strong>
+    </blockquote>
+
+    <h3>🧪 From a Scientific View:</h3>
+    <h4>✅ The egg came first.</h4>
+    <p>
+      Here’s why:
+    </p>
+    <ul>
+      <li>Long before chickens existed, there were <strong>pre-chickens</strong> — birds very similar to modern hens.</li>
+      <li>At some point, due to <strong>genetic mutation</strong>, two of these pre-chickens mated…</li>
+      <li>…and <strong>the first true chicken</strong> was born from their egg.</li>
+    </ul>
+    <p>
+      So the <strong>egg that hatched the first hen</strong> came from a bird that wasn’t quite a hen.
+    </p>
+    <blockquote>
+      ✅ <strong>Egg came before hen</strong> — evolution did it!
+    </blockquote>
+    <p>📚 This is backed by <strong>evolutionary biology</strong> and DNA studies.</p>
+
+    <h3>🧠 From a Philosophical View:</h3>
+    <p>It depends how you define:</p>
+    <ul>
+      <li>“Egg”: Any egg? Then <strong>eggs existed for millions of years</strong> before hens — fish and reptiles laid eggs long before birds evolved.</li>
+      <li>“Chicken egg”: An egg <em>laid by a chicken</em>? Then the <strong>chicken came first</strong>.</li>
+    </ul>
+    <p>
+      So philosophy can twist the question in different ways. But science gives us a strong answer.
+    </p>
+
+    <h3>✅ Final Answer:</h3>
+    <blockquote>
+      <strong>Egg came first.</strong><br>
+      Because the <strong>first chicken</strong> was born <em>from an egg</em> laid by <strong>non-chickens</strong>.
+    </blockquote>
+  </div>
+
+</body>
+</html>
